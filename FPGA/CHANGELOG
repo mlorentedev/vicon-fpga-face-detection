@@ -1,0 +1,18 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+
+## Known Issues
+
+- Strong dependency on WR_ENA length (>50ns to avoid data transmission error)
+
+## [0.0.2]
+
+- Fixed bug in image pattern generator
+- Added sync pixels in synthetic image
+
+## [0.0.1]
+
+- First functional version at 27fps
